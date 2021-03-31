@@ -20,7 +20,7 @@ These features are dumped in a pickle file.
 
 The Model.ipynb file does the training and k-cross validation of the features extracted from the previous file.
 
-References:
+***References***:
 
 Original Code: https://github.com/Srijanb97/Sarcasm_Target_Detection-EMNLP-
 Original Dataset: https://github.com/Pranav-Goel/Sarcasm-Target-Detection
