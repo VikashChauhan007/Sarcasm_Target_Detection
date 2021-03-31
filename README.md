@@ -1,5 +1,5 @@
 # Sarcasm_Target_Detection
-The dataset.csv file contains snippets(book_text) and probable targets.
+The **dataset.csv** file contains snippets(book_text) and probable targets.
 This dataset file is then preprocessed and preprocessed data is present in pre_processed_dataset.csv file which contains 4 columns:
 1. left_context
 2. right_context
