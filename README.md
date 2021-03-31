@@ -1,10 +1,10 @@
 # Sarcasm_Target_Detection
 The **dataset.csv** file contains snippets(book_text) and probable targets.
 It is then preprocessed and whose output is present in **pre_processed_dataset.csv** file which contains 4 columns:
-1. left_context
-2. right_context
-3. candidate_words
-4. target_status
+1. left_context - set of words to the left of the probable sarcasm target
+2. right_context - set of words to the right of the probable sarcasm target
+3. candidate_words - probable sarcasm target 
+4. target_status - 1(sarcasm target), 0(not a sarcasm target)  
 
 The **Data_preparation.ipynb** file does the embedding of the left_context, right_context and candidate_words based on preloaded embeddings contained in file **crawl-300d-2M.vec**.
 The **crawl-300d-2M.vec** file can be downloaded from https://fasttext.cc/docs/en/english-vectors.html
