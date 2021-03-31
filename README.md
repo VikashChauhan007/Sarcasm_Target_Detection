@@ -15,7 +15,9 @@ The **Socio_Linguistic_Feature_Extraction.ipynb** file  extracts the POS, NER, E
 The empath is a python module. So please install the module.
 
 These two files can be downloaded from below links:
+
 1.Standford NER API: https://nlp.stanford.edu/software/CRF-NER.html#Download (3.9.2 version is used in this code)
+
 2.Standford POS API: https://nlp.stanford.edu/software/tagger.shtml (3.9.2 version is used in this code)
 
 These output features are dumped in a pickle file.
