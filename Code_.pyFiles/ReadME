@@ -1,1 +1,7 @@
+This folder contains the .py files of the code.
 
+The files shoulde be run in the following order:
+   1. Data_prepartion.py file
+   2. Socio_Linguistic_Feature_Extraction.py file
+   3. Model.py file
+    
