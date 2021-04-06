@@ -1,0 +1,40 @@
+left_context,Candidate_words,right_context,target_status
+<start>,I,love being ignored <end>,1
+<start> I,love,being ignored <end>,0
+<start> I love,being,ignored <end>,0
+<start> I love being,ignored,<end>,0
+<start>,I,love being fully ignored <end>,1
+<start> I,love,being fully ignored <end>,0
+<start> I love,being,fully ignored <end>,0
+<start> I love being,fully,ignored <end>,0
+<start> I love being fully,ignored,<end>,0
+<start>,My,laptop has an awesome battery life that lasts for 15 minutes <end>,0
+<start> My,laptop,has an awesome battery life that lasts for 15 minutes <end>,0
+<start> My laptop,has,an awesome battery life that lasts for 15 minutes <end>,0
+<start> My laptop has,an, awesome battery life that lasts for 15 minutes <end>,0
+<start> My laptop has an,awesome, battery life that lasts for 15 minutes <end>,0
+<start> My laptop has an awesome,battery, life that lasts for 15 minutes <end>,1
+<start> My laptop has an awesome battery,life, that lasts for 15 minutes <end>,0
+<start> My laptop has an awesome battery life,that, lasts for 15 minutes <end>,0
+<start> My laptop has an awesome battery life that,lasts, for 15 minutes <end>,0
+<start> My laptop has an awesome battery life that lasts,for, 15 minutes <end>,0
+<start> My laptop has an awesome battery life that lasts for,15,minutes <end>,0
+<start> My laptop has an awesome battery life that lasts for 15 ,minutes,<end>,0
+<start>,The,laptop heats up so much that I strongly recommend chef to use it as a cooktop <end>,0
+<start> The,laptop,heats up so much that I strongly recommend chef to use it as a cooktop <end>,1
+<start> The laptop,heats,up so much that I strongly recommend chef to use it as a cooktop <end>,0
+<start> The laptop heats,up,so much that I strongly recommend chef to use it as a cooktop <end>,0
+<start> The laptop heats up,so,much that I strongly recommend chef to use it as a cooktop <end>,0
+<start> The laptop heats up so,much,that I strongly recommend chef to use it as a cooktop <end>,0
+<start> The laptop heats up so much,that,I strongly recommend chef to use it as a cooktop <end>,0
+<start> The laptop heats up so much that,I,strongly recommend chef to use it as a cooktop <end>,0
+<start> The laptop heats up so much that I,strongly,recommend chef to use it as a cooktop <end>,0
+<start> The laptop heats up so much that I strongly,recommend,chef to use it as a cooktop <end>,0
+<start> The laptop heats up so much that I strongly recommend,chef,to use it as a cooktop <end>,1
+<start> The laptop heats up so much that I strongly recommend chef,to,use it as a cooktop <end>,0
+<start> The laptop heats up so much that I strongly recommend chef to,use,it as a cooktop <end>,0
+<start> The laptop heats up so much that I strongly recommend chef to use,it,as a cooktop <end>,0
+<start> The laptop heats up so much that I strongly recommend chef to use it,as,a cooktop <end>,0
+<start> The laptop heats up so much that I strongly recommend chef to use it as,a,cooktop <end>,0
+<start> The laptop heats up so much that I strongly recommend chef to use it as a,cooktop,<end>,1
+
